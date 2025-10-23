@@ -1,2 +1,2 @@
-# c-
+# c++
 Exercicios em C++
